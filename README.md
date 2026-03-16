@@ -9,8 +9,8 @@
 단순한 마릿수 예측의 정밀도를 넘어, 모기 개체수가 급증하거나 급감하는 **시계열적 흐름(Trend)** 을 파악하는 데 중점을 두었습니다. 비록 방역 데이터와 같은 인위적 억제 변수의 부재로 인해 수치적 오차가 발생했으나, 개체수 변동의 주요 변곡점을 유연하게 추종함으로써 향후 실무적인 조기 경보 시스템으로의 발전 가능성을 확인했습니다.
 
 ## 이상치 확인 및 처리
-<img src="assets/outer_1.png" width="48%">
-<img src="assets/outer_2.png" width="48%">
+<img src="assets/outer_1.png" width="40%">
+<img src="assets/outer_2.png" width="40%">
 
 ## EDA Target
  <img src="assets/target.png" width="60%">
